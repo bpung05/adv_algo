@@ -1,0 +1,38 @@
+things on the cheat sheet:
+
+
+1. Post  discussion about sort algoirhtms. Analyse sort algorithms. Discover a new algorithm with some conditions. Characteristic? Yes or No?
+2. 1 graph -> perform DFS on this graph. Order of the nodes you vists (4.4 , 4.3, 4.1). Given GRAPH
+3. and BFS. 
+4.Strongly connected components - Kosraju -> GRAPH
+6. Max flow -> There will be one on Capacity and one on augmented paths.
+7. MST (?) -> GRAPH
+8. Dijkstras/Prims/Kurskal spanning tree. CHeck and discuss the negative weights - FR
+9. Shortest path algorithm. Check the shortest path. Characterstics. different conditions?
+10. Another about dijkstraas
+11. Check the bellmn-ford shortest path algorithm
+
+
+
+1.TOSSUP -> its a sort/new algo   
+2. DFS ORDERING ->GRAPH
+3. Can we use the BFS algorithm to determine whether a graph is cyclic? If so, how? 
+
+	OR
+
+COMPARE TIME COMPLEXITY Between DFS and BFS
+
+4.In the Kosaraju strongly connected component algorithm, what is the purpose of the first three steps?
+
+OR SCC GRAPH 
+
+OR TARJANS
+
+5. prim, kruskal (probably discussion on differences or when one is better)
+6.What is an augmenting path? If there is one, how do you find it? (NO GRAPH HERE)
+7.MST with graph. Use Kruskals or dijkstras.
+8. DJKSTRA NEGATIVE EDGES : Does the Dijkstra-Prim Minimum Spanning Tree algorithm work for mixed positive and negative edge weights? Why or why not?
+
+9. SHORTEST PATH - DIJKSTRAS ->GRAPH ?????
+
+10.  Can the Bellman Ford algorithm be used to find the maximum-length simple path in a graph? If it will not work in the general case, is there a special case for which it will work?
